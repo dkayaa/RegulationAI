@@ -1,4 +1,4 @@
-/venv
-/keys
-/data
-/output 
+venv/
+keys/
+data/
+output/ 
