@@ -1,4 +1,4 @@
-#A Framework for QA Generation and Answering in a Regulatory Context
+<h1>A Framework for QA Generation and Answering in a Regulatory Context</h1>
 
 The code in this repository is an addendum to the Masters Thesis Research
 
@@ -9,7 +9,9 @@ The code in this repository is an addendum to the Masters Thesis Research
 Note: API Keys must be stored in a folder ./keys in the root directory and must be labelled in accordance to the convention laid out in model_dict.py
 
 We use SpAcy for Entity Pathing extraction of lemmatized nounn phrases, please install its model with:
-```python3 -m spacy download en_core_web_sm```
+```
+python3 -m spacy download en_core_web_sm
+```
 
 Outputs generated are stored in ./outputs folder 
 
