@@ -2,3 +2,5 @@ venv/
 keys/
 data/
 output/ 
+src/__pycache__/
+.DS_Store
